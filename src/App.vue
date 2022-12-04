@@ -1,7 +1,8 @@
 <template>
-  
-  <PageHeader></PageHeader>
-
+  <div id="app">
+    <PageHeader></PageHeader>
+    <router-view path="$router.key"/>
+  </div>
 </template>
 
 <script>
