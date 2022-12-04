@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231.50875334187674 80" width="231.50875334187674" height="80">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="231.50875334187674" height="80" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 50 10)"><path d="M0 0 L100 0 L100 20 L0 20" stroke="none" stroke-width="0" fill="#000000"></path><path d="M0 0 C34.33 0, 68.65 0, 100 0 M0 0 C26.36 0, 52.72 0, 100 0 M100 0 C100 7.16, 100 14.31, 100 20 M100 0 C100 6.46, 100 12.93, 100 20 M100 20 C64.39 20, 28.79 20, 0 20 M100 20 C78.09 20, 56.17 20, 0 20 M0 20 C0 15.17, 0 10.35, 0 0 M0 20 C0 12.35, 0 4.7, 0 0" stroke="#000000" stroke-width="1" fill="none"></path></g><g stroke-linecap="round" transform="translate(10 30) rotate(0 50 10)"><path d="M0 0 L100 0 L100 20 L0 20" stroke="none" stroke-width="0" fill="#fa5252"></path><path d="M0 0 C23.7 0, 47.39 0, 100 0 M0 0 C23.7 0, 47.4 0, 100 0 M100 0 C100 6.01, 100 12.02, 100 20 M100 0 C100 7.47, 100 14.95, 100 20 M100 20 C60.54 20, 21.09 20, 0 20 M100 20 C73.47 20, 46.95 20, 0 20 M0 20 C0 15.95, 0 11.9, 0 0 M0 20 C0 14.69, 0 9.38, 0 0" stroke="#000000" stroke-width="1" fill="none"></path></g><g stroke-linecap="round" transform="translate(10 50) rotate(0 50 10)"><path d="M0 0 L100 0 L100 20 L0 20" stroke="none" stroke-width="0" fill="#fab005"></path><path d="M0 0 C25.02 0, 50.04 0, 100 0 M0 0 C21.72 0, 43.44 0, 100 0 M100 0 C100 4.27, 100 8.53, 100 20 M100 0 C100 7.28, 100 14.56, 100 20 M100 20 C78.06 20, 56.12 20, 0 20 M100 20 C67.22 20, 34.44 20, 0 20 M0 20 C0 12.73, 0 5.45, 0 0 M0 20 C0 14.92, 0 9.84, 0 0" stroke="#010d00" stroke-width="1" fill="none"></path></g><g transform="translate(118.50875334187674 18.527251757406077) rotate(0 51.5 22.5)"><text x="51.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Berlim</text></g></svg>
