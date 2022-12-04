@@ -7,6 +7,7 @@
 
 <script>
 import './styles/global.css'
+import './styles/button.css'
 import PageHeader from './components/PageHeader.vue'
 
 export default {

@@ -1,7 +1,7 @@
 :root{
   --color-01: #010D00;
   --color-background-nav: #8C8377;
-  --color-03: #BFB3A4;
+  --color-background-btn: #BFB3A4;
   --color-background-light: #D9CDBF;
   --color-05: #0D0D0D;
 }
@@ -16,6 +16,13 @@
 html,
 body{
   background-color: var(--color-background-light);
+}
+
+main{
+  min-height: calc(100vh - 120px);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 a{
